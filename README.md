@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Gabrielli!;I'm+19+years+old;I'm+from+São+Paulo,+Brazil;You're+welcome!+:%29)](https://git.io/typing-svg)
+
+<img width=100% class="centerImage" src="https://steamuserimages-a.akamaihd.net/ugc/792008787919302532/D8C66A0D97AA7B6A02AF9EAF61669523FAABE7D0/"/>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=DD6387&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Gabrielli!;I'm+19+years+old;I'm+from+Sao+paulo%2C+Brazil;You're+welcome!+%3AD)](https://git.io/typing-svg)
  
 
 <div align="center">
@@ -9,7 +14,8 @@
   
 </div>
 <div align="center">
-<img align="center" alt="gabe-pic" height="180" style="border-radius:50px;" src="https://i.pinimg.com/736x/86/b3/de/86b3dedeb1ceb38c0ab4eafb6c5ac5f1.jpg">
+<img width=100% class="centerImage" src="https://steamuserimages-a.akamaihd.net/ugc/792008787919302532/D8C66A0D97AA7B6A02AF9EAF61669523FAABE7D0/"/>
+<img align="center" alt="gabe-pic" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/f8/1c/c1/f81cc15a1242c53aaf0bacb4319d7048.png">
 </div>
  
  <div>
