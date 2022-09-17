@@ -24,4 +24,5 @@
 <div align="center"> 
  <a href="https://www.linkedin.com/in/gabrielli-gama-242071221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://codepen.io/ebagyu/pens/public" target="_blank"><img src="https://img.shields.io/badge/-CODEPEN-%23E4405F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
+ <a href="https://www.behance.net/gabe00" target="_blank"><img src="https://img.shields.io/badge/-behance-%23E4405F?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </div>
