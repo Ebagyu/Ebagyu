@@ -8,8 +8,9 @@
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ebagyu&show_icons=true&count_private=true&hide_border=true&title_color=de6387&icon_color=de6387&text_color=ffffff&bg_color=282a36" alt="Ebagyu github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebagyu&layout=compact&hide_border=true&title_color=de6387&text_color=ffffff&bg_color=282a36" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebagyu&show_icons=true&theme=dracula&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebagyu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
   
 </div>
