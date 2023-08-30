@@ -8,8 +8,9 @@
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats-five-theta-41.vercel.app/api?username=Ebagyu&show_icons=true&theme=dracula&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats-five-theta-41.vercel.app/api/top-langs/?username=Ebagyu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/ebagyu">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ebagyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="200em" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebagyu&theme=dracula">
 
 </div>
   
