@@ -5,14 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=DD6387&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Gabrielli!;I'm+20+years+old;I'm+from+Sao+paulo%2C+Brazil;You're+welcome!+%3AD)](https://git.io/typing-svg)
  
-
-<div align="center">
-  
-  <a href="https://github.com/ebagyu">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ebagyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="200em" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebagyu&theme=dracula">
-
-</div>
   
 </div>
 <div align="center">
